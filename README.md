@@ -61,5 +61,3 @@ The calculator will keep running until you stop it, (CTRL + C on keyboard to man
 get_float_input is a function that retrieves a number from the user. It ensures there are no spaces and prompts again if the user enters nothing.
 calculation is the function that performs the math. It checks what the user wants to do and returns the answer.
 The calculator uses try-except blocks to handle mistakes and keep running.
-
-Let me know what you'd like to do next with the Interactive Python Console Calculator.
